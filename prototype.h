@@ -32,7 +32,9 @@ extern int Random (void);
 extern int Egalite(void);
 extern int GrandeSuite (void);
 extern int PetiteSuite (void);
-extern int ConclusionEgalite(void);
+extern int ConclusionEgalite (void);
+extern int CalculMoins8Plus25 (void);
+
 /*
 extern int TableauDeTri();//(int a, int b, int c, int d, int e);
 extern int DetectionDeTrois();

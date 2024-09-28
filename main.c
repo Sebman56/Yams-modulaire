@@ -12,6 +12,8 @@ int main()
   Egalite();
   GrandeSuite();
   PetiteSuite();
+  CalculMoins8Plus25 ();
+
   //TableauDeTri (); //(int a, int b, int c, int d, int e);
   //VerifConsecutif ();
   ConclusionEgalite();

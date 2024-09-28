@@ -18,7 +18,7 @@ int PetiteSuite ()
   && ((A == 4) || (B == 4) || (C == 4) || (D == 4) || (E == 4))
   )
     {
-    printf("\n\t Suite 1234 detectée.\n");
+    printf("\n\t\t Suite 1234 detectée.\n");
     //printf("\t rappel valeur: %i, %i, %i, %i, %i",A,B,C,D,E);
     CompteurPetiteSuite++;
        }
